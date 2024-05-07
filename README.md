@@ -35,7 +35,7 @@ Task 2: Demonstrate the properties of Cryptographic hash functions.
 Task 3: Use the Pymerkel library to compute the hash of transactions.
 Task 4: Compute the Root hash (Merkle Root) for 11 transactions.
 
-**Lab Link:** [Lab2 - Blockchain Primitives - Cryptosystems](https://chat.openai.com/share/5c7e05fb-f666-4f98-a959-79af4b168647)
+**Lab Link:** [Lab2 - Blockchain Primitives - Cryptosystems](https://github.com/Dare-marvel/Blockchain-Technology---BCT--/blob/main/EXPERIMENTS%2F03A%20%26%2003B.%20Blockchain%20Programming%2FBCT_3A_3B_Pdf.pdf)
 
 ---
 
