@@ -101,3 +101,8 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s
 * [Experiment](https://github.com/Dare-marvel/Blockchain-Technology---BCT--/tree/main/EXPERIMENTS/08A.%20Hyperledger%20Fabric%20Application%20Development)
 
 ---
+
+## If all these links don't work ------->
+### Use this link ---> https://shrib.com/#bctlabese1
+
+#### Replace the number at the end of the link with the number of the practical
