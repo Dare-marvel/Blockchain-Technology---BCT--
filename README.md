@@ -18,12 +18,14 @@
 ### Lab1: Blockchain Primitives - Cryptography
 
 **Description:**
-* Task 1: Perform the symmetric encryption using AES-256-CBC using OpenSSL or Pyhton-Cryptography
+* Task 1: Perform the symmetric encryption using AES-256-CBC using OpenSSL or Python-Cryptography
 * Task 2: Perform Public-key cryptography using RSA cryptography
 * Task 3: Create and verify the digital signature.
 * Task 4: Generate Digital Certificate (self-signed)
 
-**Lab Link:** [Lab1 - Blockchain Primitives - Cryptography](https://chat.openai.com/share/2c6de447-de2c-4c90-a6b4-2e5f40ab02dc)
+**Lab Link:** 
+* [Lab1 - Blockchain Primitives - Cryptography](https://chat.openai.com/share/2c6de447-de2c-4c90-a6b4-2e5f40ab02dc)
+* [Experiment](https://github.com/Dare-marvel/Blockchain-Technology---BCT--/tree/main/EXPERIMENTS/01B.%20Blockchain%20Primitives-I%20Cryptosystems-%20PKI%20using%20Openssl)
 
 ---
 
@@ -35,7 +37,9 @@
 * Task 3: Use the Pymerkel library to compute the hash of transactions.
 * Task 4: Compute the Root hash (Merkle Root) for 11 transactions.
 
-**Lab Link:** [Lab2 - Blockchain Primitives - Cryptosystems](https://github.com/Dare-marvel/Blockchain-Technology---BCT--/blob/main/EXPERIMENTS%2F03A%20%26%2003B.%20Blockchain%20Programming%2FBCT_3A_3B_Pdf.pdf)
+**Lab Link:** 
+<!-- * [Lab2 - Blockchain Primitives - Cryptosystems]()  -->
+* [Experiment](https://github.com/Dare-marvel/Blockchain-Technology---BCT--/tree/main/EXPERIMENTS/03A%20%26%2003B.%20Blockchain%20Programming)
 
 ---
 
@@ -47,7 +51,9 @@
 * Task 3: Solve cryptographic puzzles for the desired prefix of the hash value of a blockchain. 
 * Task 4: Find the nonce for prefixes: 4-zeros and 5-zeros
 
-**Lab Link:** [Lab3 - Blockchain Programming](https://chat.openai.com/share/57e23ab0-f1ca-4273-9b2e-de08bb1606e3)
+**Lab Link:** 
+* [Lab3 - Blockchain Programming](https://chat.openai.com/share/57e23ab0-f1ca-4273-9b2e-de08bb1606e3)
+* [Experiment](https://github.com/Dare-marvel/Blockchain-Technology---BCT--/tree/main/EXPERIMENTS/03A%20%26%2003B.%20Blockchain%20Programming)
 
 ---
 
@@ -59,7 +65,9 @@
 * Task 3: Deposit some ether in your Metamask accounts. 
 * Task 4: Find the Gas used for a transaction, and trace the transaction.
 
-**Lab Link:** [Lab4 - Ethereum Blockchain Programming - Solidity Language](https://chat.openai.com/share/b063b58d-bcc4-445a-afff-27f17d122b09)
+**Lab Link:** 
+* [Lab4 - Ethereum Blockchain Programming - Solidity Language](https://chat.openai.com/share/b063b58d-bcc4-445a-afff-27f17d122b09)
+* [Experiment](https://github.com/Dare-marvel/Blockchain-Technology---BCT--/tree/main/EXPERIMENTS/04A.%20Development%20of%20Smart%20Contract%20using%20Solidity)
 
 ---
 
@@ -71,7 +79,9 @@
 * Task 3: Configure node.js and Web3.js
 * Task 4: Use Web3.js to transfer Ether from one account to another.
 
-**Lab Link:** [Lab5 - Ethereum Blockchain](https://chat.openai.com/share/0383ee1e-7eed-477c-8161-c93c2e9eba4b)
+**Lab Link:** 
+* [Lab5 - Ethereum Blockchain](https://chat.openai.com/share/0383ee1e-7eed-477c-8161-c93c2e9eba4b)
+* [Experiment](https://github.com/Dare-marvel/Blockchain-Technology---BCT--/tree/main/EXPERIMENTS/02A.%20Ethereum%20Blockchain%20Part-I)
 
 ---
 
@@ -86,6 +96,8 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s
 * Task 3: Creating a channel and starting chain code on the channel
 * Task 4: Interacting with the network.
 
-**Lab Link:** [Lab6 - Hyperledger Fabric](https://chat.openai.com/share/a4678295-6b99-4601-a10f-4168e977d8f4)
+**Lab Link:** 
+* [Lab6 - Hyperledger Fabric](https://chat.openai.com/share/a4678295-6b99-4601-a10f-4168e977d8f4)
+* [Experiment](https://github.com/Dare-marvel/Blockchain-Technology---BCT--/tree/main/EXPERIMENTS/08A.%20Hyperledger%20Fabric%20Application%20Development)
 
 ---
