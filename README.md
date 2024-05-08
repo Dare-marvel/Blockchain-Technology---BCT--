@@ -102,7 +102,7 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s
 
 ---
 
-## If all these links don't work ------->
+## If all these links don't work :
 ### Use this link ---> https://shrib.com/#bctlabese1
 
 #### Replace the number at the end of the link with the number of the practical
