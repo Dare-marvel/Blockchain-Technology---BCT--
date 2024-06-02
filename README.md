@@ -1,5 +1,7 @@
 # Blockchain-Technology---BCT--
 
+# [Link to Mini-Project](https://github.com/Dare-marvel/Aarogya-Coin-EHR)
+
 ## Links for Performing each experiment for Lab ESE:
 
 #### System Setup:
